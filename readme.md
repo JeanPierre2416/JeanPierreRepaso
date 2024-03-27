@@ -6,3 +6,8 @@ Tengo *24 años* y me gusta mucho programar
 
 ## Contact me
 Puedes contactarme aquí --> **jeanperalta97@gmail.com**
+
+## Idiomas
+- *Español*
+- Ingles
+- Frances
